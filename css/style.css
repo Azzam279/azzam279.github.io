@@ -1,0 +1,25 @@
+.img-edu {
+	height: 150px;
+	margin: auto;
+}
+
+@media (max-width: 1199px) {
+	.img-edu {
+    	height: 130px;
+    	margin: auto;
+    }
+}
+
+@media (max-width: 991px) {
+	.img-edu {
+    	height: 80px;
+    	margin: auto;
+    }
+}
+
+@media (max-width: 767px) {
+	.img-edu {
+    	height: 60px;
+    	margin: auto;
+    }
+}
