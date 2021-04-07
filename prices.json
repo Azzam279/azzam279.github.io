@@ -1,0 +1,18 @@
+{
+    "bayi": {
+        "harga": "19900",
+        "diskon": "20%"
+    },
+    "pelajar": {
+        "harga": "46900",
+        "diskon": "20%"
+    },
+    "personal": {
+        "harga": "58900",
+        "diskon": "35%"
+    },
+    "bisnis": {
+        "harga": "65900",
+        "diskon": "35%"
+    }
+}
